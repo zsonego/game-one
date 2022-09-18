@@ -1,2 +1,1 @@
-# game-one
-# zsonego-github.io
+# 五子棋游戏
